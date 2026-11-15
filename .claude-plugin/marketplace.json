@@ -1,0 +1,27 @@
+{
+  "name": "takefridayoff",
+  "owner": {
+    "name": "Take Friday Off",
+    "email": "hello@takefridayoff.com"
+  },
+  "description": "Take Friday Off for Claude: wellness product development in Australia.",
+  "plugins": [
+    {
+      "name": "takefridayoff",
+      "source": "./takefridayoff",
+      "description": "Wellness product development in Australia: search Take Friday Off’s guides and case studies, check a product’s regulatory pathway, plan a TGA listing, and book a call.",
+      "version": "1.4.0",
+      "category": "business",
+      "tags": [
+        "wellness",
+        "supplements",
+        "tga",
+        "regulatory",
+        "product-development",
+        "australia",
+        "skincare",
+        "nutraceuticals"
+      ]
+    }
+  ]
+}

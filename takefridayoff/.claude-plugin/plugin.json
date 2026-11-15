@@ -1,0 +1,22 @@
+{
+  "name": "takefridayoff",
+  "displayName": "Take Friday Off",
+  "version": "1.4.0",
+  "description": "Wellness product development in Australia: search Take Friday Off’s guides and case studies, check a product’s regulatory pathway, plan a TGA listing, and book a call.",
+  "author": {
+    "name": "Take Friday Off",
+    "email": "hello@takefridayoff.com",
+    "url": "https://takefridayoff.com"
+  },
+  "homepage": "https://takefridayoff.com/ai",
+  "keywords": [
+    "wellness",
+    "supplements",
+    "tga",
+    "regulatory",
+    "product-development",
+    "australia",
+    "skincare",
+    "nutraceuticals"
+  ]
+}

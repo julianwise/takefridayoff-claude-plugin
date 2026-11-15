@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "takefridayoff": {
+      "type": "http",
+      "url": "https://takefridayoff.com/mcp"
+    }
+  }
+}
