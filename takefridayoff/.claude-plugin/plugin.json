@@ -9,6 +9,8 @@
     "url": "https://takefridayoff.com"
   },
   "homepage": "https://takefridayoff.com/ai",
+  "privacyPolicyUrl": "https://takefridayoff.com/privacy",
+  "icon": ".claude-plugin/icon.png",
   "keywords": [
     "wellness",
     "supplements",

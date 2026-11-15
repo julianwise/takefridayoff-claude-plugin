@@ -23,7 +23,7 @@ Regulatory content is general information checked on the date each page shows, n
 
 ## Privacy
 
-The server records which tool was used, what it was asked and the outcome, with the name of the app that asked and without IP addresses, for three months. A call request is kept as an enquiry. Full policy: https://takefridayoff.com/privacy. Questions: hello@takefridayoff.com.
+The server records which tool was used, what it was asked and the outcome, with the name of the app that asked and without IP addresses, for three months. A call request is kept as an enquiry. The full policy is at https://takefridayoff.com/privacy, and questions go to hello@takefridayoff.com.
 
 ## Licence
 
